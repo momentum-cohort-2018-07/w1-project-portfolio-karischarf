@@ -63,11 +63,14 @@ i {
     text-align: center;
 }
 
-#lazy-river, #happy-valley  {
-    max-width: 100%;
-    height: auto;
-    align-content: center;
+#lazy-river  {
+    width: 300px;
+    margin-right: 60px;
+}
 
+#happy-valley  {
+    width: 300px;
+    margin-right: 60px;
 }
 
 @media (min-width: 700px) {
